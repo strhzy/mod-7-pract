@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "kfcmod:block/doggo",
+        "up": "kfcmod:block/doggo",
+        "north": "kfcmod:block/doggo",
+        "south": "kfcmod:block/doggo",
+        "west": "kfcmod:block/doggo",
+        "east": "kfcmod:block/doggo"
+    }
+}

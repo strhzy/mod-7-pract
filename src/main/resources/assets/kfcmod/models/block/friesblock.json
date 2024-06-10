@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "kfcmod:block/friesblock",
+        "up": "kfcmod:block/friesblock",
+        "north": "kfcmod:block/friesblock",
+        "south": "kfcmod:block/friesblock",
+        "west": "kfcmod:block/friesblock",
+        "east": "kfcmod:block/friesblock"
+    }
+}

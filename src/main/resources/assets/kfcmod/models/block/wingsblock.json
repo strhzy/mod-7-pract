@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "kfcmod:block/wings",
+        "up": "kfcmod:block/wings",
+        "north": "kfcmod:block/wings",
+        "south": "kfcmod:block/wings",
+        "west": "kfcmod:block/wings",
+        "east": "kfcmod:block/wings"
+    }
+}

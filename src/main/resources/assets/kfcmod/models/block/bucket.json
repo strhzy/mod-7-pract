@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "kfcmod:block/bucket",
+        "up": "kfcmod:block/bucket",
+        "north": "kfcmod:block/bucket",
+        "south": "kfcmod:block/bucket",
+        "west": "kfcmod:block/bucket",
+        "east": "kfcmod:block/bucket"
+    }
+}
